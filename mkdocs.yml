@@ -7,7 +7,6 @@ nav:
 site_author: Sachin Gupta
 site_description: >-
   DESCRIPTION
-
 # Repository
 repo_name: sachin010886/NER-Project
 repo_url: https://github.com/sachin010886/NER-Project
@@ -24,18 +23,18 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline 
+        icon: material/toggle-switch-off-outline
         name: Switch to dark mode
       primary: teal
-      accent: purple 
-    - scheme: slate 
+      accent: purple
+    - scheme: slate
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode    
+        name: Switch to light mode
       primary: teal
-      accent: lime    
+      accent: lime
   # logo: PyTorch_logo_icon.svg
-  
+
 extra:
   social:
     - icon: fontawesome/brands/github-alt
@@ -64,8 +63,8 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.mark
-  
-  
+
+
 plugins:
   - search
 
